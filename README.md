@@ -1,1 +1,12 @@
 # Practico-GitHub
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Practico GitHub</title>
+</head>
+<body>
+    <h1>Bienvenido aL PRACTICO GitHub</h1>
+</body>
+</html>
