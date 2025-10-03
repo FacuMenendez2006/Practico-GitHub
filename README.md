@@ -6,7 +6,6 @@ Este es un ejemplo de cómo tener un archivo HTML y uno CSS separados
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Práctico GitHub</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
