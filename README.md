@@ -11,7 +11,6 @@ Este es un ejemplo de cómo tener un archivo HTML y uno CSS separados
 </head>
 <body>
     <h1>Bienvenido al Práctico GitHub</h1>
-
     <div class="container">
         <p>Este es un ejemplo de HTML y CSS separados.</p>
     </div>
