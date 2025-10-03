@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Practico GitHub</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>Bienvenido aL PRACTICO GitHub</h1>
-    <div class="container">
-        <p>Este es un ejemplo de HTML y CSS separados.</p>
-    </div>
-</body>
-</html>
 /* Example CSS styles */
 body {
   font-family: Arial, sans-serif;
@@ -34,3 +20,19 @@ h1 {
   border-radius: 8px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Practico GitHub</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Bienvenido aL PRACTICO GitHub</h1>
+    <div class="container">
+        <p>Este es un ejemplo de HTML y CSS separados.</p>
+    </div>
+</body>
+</html>
+
