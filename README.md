@@ -9,4 +9,13 @@
 </body>
 </html>
 
+body {
+  background-color: lightblue;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+h1 {
+  color: darkblue;
+}
+
 
